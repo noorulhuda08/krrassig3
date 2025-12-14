@@ -66,3 +66,7 @@ Open: http://localhost:7860
 ## Notes / limitations
 - “Web search” is simulated using the JSON KB (no real internet).
 - Analysis is intentionally simple (compare/summarize) to keep the system lightweight and reproducible.
+
+## AUTHOR
+- Ali Rabeet Haider 231174
+- Noor Ul Huda 231140
